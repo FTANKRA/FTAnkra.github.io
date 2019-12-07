@@ -88,7 +88,7 @@ author:
   avatar           : "/images/foster profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Accra, Ghana"
-  email            :"fostertwumasi@gmail.com"
+  email            : "fostertwumasi@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
