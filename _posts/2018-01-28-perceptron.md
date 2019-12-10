@@ -1,6 +1,6 @@
 ---
 title: "Linear Regression"
-date: 2018-01-28
+date: 2019-12-10
 tags: [data wrangling, data science, messy data]
 header:
   image: "/images/perceptron/percept.jpg"
